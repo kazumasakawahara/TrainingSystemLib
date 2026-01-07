@@ -109,11 +109,10 @@ Google Apps Script (GAS) を使用した研修会の案内メール配信・出�
 
 1. [Google Apps Script](https://script.google.com) で「新しいプロジェクト」
 2. `TrainingSystemClient-v3.gs` の内容を貼り付け
-3. `CONFIG` を編集（下記参照）
+3. `CONFIG` を編集（Step 3参照）
 4. 「ライブラリ」の「+」をクリック
 5. Step 1 でコピーしたスクリプトIDを貼り付け
 6. バージョンを選択して「追加」
-7. `setupSystem` を実行
 
 #### 方法B: スプレッドシート紐付け型
 
